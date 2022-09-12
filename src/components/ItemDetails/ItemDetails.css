@@ -1,0 +1,11 @@
+.details-container {
+    border: 1px solid gray;
+    padding: 15px;
+    border-radius: 10px
+}
+
+.details-container h2,
+.details-container p {
+    width: inherit;
+    overflow: hidden;
+}
